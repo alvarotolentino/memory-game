@@ -1,1 +1,1 @@
-This is a javascript memory-game app.
+This is a memory-game javascript app.
